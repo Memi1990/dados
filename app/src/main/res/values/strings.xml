@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">dados</string>
     <string name="btn_play">¡JUGAR!</string>
+    <string name="btn_new">JUGAR DE NUEVO</string>
     <string name="player1">Jugador 1</string>
     <string name="player2">Jugador 2</string>
-    <string name="result">Puntuación...</string>
+    <string name="result">Puntuación…</string>
+    <string name="winner1">Ganador Jugador 1</string>
+    <string name="winner2">Ganador Jugador 2</string>
 </resources>
